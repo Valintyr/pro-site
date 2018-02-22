@@ -1,0 +1,9 @@
+{
+  "name": "pro-site",
+  "version": "1.0.0",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "jshint": "^2.9.5",
+    "normalize.css": "^8.0.0"
+  }
+}
